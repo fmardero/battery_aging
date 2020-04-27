@@ -2,7 +2,7 @@
 Dataset [here](https://c3.nasa.gov/dashlink/resources/133/)
 
 **NOTE**:  
-datasets can be trasformed, one a time, to `pd.DataFrame` using `to_df` function coded in `mat_2_DataFrame.ipynb`
+datasets can be transformed, once a time, to `pd.DataFrame` using `to_df` function coded in `mat_2_DataFrame.ipynb`
 
 ## Features:
 * type: 	operation  type, can be charge, discharge or impedance
